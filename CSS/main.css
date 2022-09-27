@@ -1,3 +1,10 @@
 body {
     background-color: azure;
 }
+
+p {
+    color:darkgray;
+}
+h2 {
+    font-size: 40px;
+}
